@@ -18,9 +18,7 @@ I love building web applications, exploring DevOps practices, and learning new t
 ![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
 
 
-![](./images/roxsross-banner-1.png)
-
-## ¡Bienvenid@s a la zona barradob!
+## ¡Bienvenid@s a la zona barrado!
 
 #### 🤔 &nbsp;¿Quién soy? 
 ## 🚀 About Me
