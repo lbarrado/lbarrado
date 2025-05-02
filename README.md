@@ -47,9 +47,10 @@ Me encanta crear aplicaciones web, explorar el mundo DevOps y aprender algo nuev
 
 <samp>
     Azure Hero 🚀  
-    Kubernetes Hero 🚀  
-    Docker Captain 🐳  
-    AWS Community Builder ⚡  
+    Kubernetes  🚀  
+    Docker  🐳  
+    Grafana (Visualización)
+    Monitorizacion (Zabbix)
     <br><br>
     "No se puede crecer si no estás dispuesto a saltar a la zona del peligro 🔥"
 </samp>
