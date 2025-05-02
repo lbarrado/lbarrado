@@ -32,7 +32,7 @@ I love building web applications, exploring DevOps practices, and learning new t
 
 
 <a href="https://luisbarrado.com">
-<img align="left" width="20%" src="https://raw.githubusercontent.com/roxsross/roxsross/main/images/Copia de ROXSROSS FINAL (1).png">
+<img align="left" width="20%" src="#">
 </a>
 <samp>
     Azure Hero  🚀
