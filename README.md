@@ -1,4 +1,4 @@
-# ¡Hola, hola! Soy Luis 👋
+# ¡Hola! Soy Luis 👋
 
 Soy un desarrollador apasionado, entusiasta de la tecnología y futuro orgulloso papá de gemelos 👶👶.  
 Me encanta crear aplicaciones web, explorar el mundo DevOps y aprender algo nuevo cada día.
