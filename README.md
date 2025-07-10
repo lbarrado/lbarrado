@@ -1,7 +1,11 @@
 # ¡Hola! Soy Luis 👋
 
-Soy un desarrollador apasionado, entusiasta de la tecnología y futuro orgulloso papá de gemelos 👶👶.  
+Soy un desarrollador apasionado, entusiasta de la tecnología y orgulloso papá de gemelos 👶👶.  
 Me encanta crear aplicaciones web, explorar el mundo DevOps y aprender algo nuevo cada día.
+
+<div align="center">
+  <img src="images/gemelos.jpeg" alt="Mis gemelos" width="400"/>
+</div>
 
 ---
 
@@ -28,7 +32,7 @@ Me encanta crear aplicaciones web, explorar el mundo DevOps y aprender algo nuev
 - 💻 Desarrollador full-stack con experiencia en **Laravel**, **Docker** y herramientas **DevOps**.
 - 🌱 Actualmente trabajando en mi sitio personal: [luisbarrado.com](https://luisbarrado.com)
 - 🛠️ Me gusta trastear con PHP, JavaScript, Bash y configuraciones de servidores.
-- 👨‍👩‍👧‍👦 Amante de la familia — ¡y en camino doble alegría con gemelos!
+- 👨‍👩‍👧‍👦 Amante de la familia — ¡y con doble alegría de gemelos!
 - 📍 Resido en España 🇪🇸
 
 ---
