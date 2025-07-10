@@ -27,6 +27,22 @@ Me encanta crear aplicaciones web, explorar el mundo DevOps y aprender algo nuev
 
 ---
 
+## 🚀 Mi enfoque en DevOps
+
+### 💡 **Lo que me apasiona:**
+- 🎯 **Automatización inteligente** - Transformar procesos manuales en workflows eficientes
+- ☁️ **Arquitecturas cloud-native** - Diseñar soluciones escalables desde el día uno
+- 🔍 **Observabilidad profunda** - Monitoreo que previene problemas antes de que ocurran
+- 🛠️ **Herramientas modernas** - Siempre explorando las mejores tecnologías del momento
+- 👥 **Colaboración técnica** - Compartir conocimiento y formar equipos más fuertes
+
+### 🌟 **Experiencia que me define:**
+- 🧠 **Visión holística** - Veo el panorama completo, no solo mi área
+- 🔄 **Adaptabilidad** - Me siento cómodo tanto en startups ágiles como en empresas establecidas
+- 📚 **Crecimiento continuo** - Certificaciones y aprendizaje constante
+- 🌍 **Perspectiva global** - Experiencia trabajando con equipos internacionales
+- 👨‍👩‍👧‍👦 **Gestión bajo presión** - Los gemelos me han enseñado que no hay crisis que no se pueda resolver 😄
+
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador full-stack con experiencia en **Laravel**, **Docker** y herramientas **DevOps**.
